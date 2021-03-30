@@ -1,2 +1,2 @@
-# design-pattern-examples
-This is a collection of design pattern code in Python.
+# Design Pattern Examples
+Simple Python scripts but representing a bigger and more important aspect of designing: **Design Pattern**
